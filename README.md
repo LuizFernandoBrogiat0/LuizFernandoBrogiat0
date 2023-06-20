@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luiz Fernando 
 - 👀 I’m interested in learn html and css (for while)
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on everything.
+- 💞️ I’m looking to collaborate on projects to learn html css & js
